@@ -1,0 +1,6 @@
+BASE_URL = "http://localhost:5555"
+LIST_ENDPOINT = f"{BASE_URL}/list"
+STAT_ENDPOINT = f"{BASE_URL}/stats"
+DOWNLOAD_ENDPOINT = f"{BASE_URL}/download"
+UPLOAD_ENDPOINT = f"{BASE_URL}/upload"
+DELETE_ENDPOINT = f"{BASE_URL}/delete"

@@ -1,0 +1,4 @@
+.idea*
+allure-report*
+*.pyc
+*.pytest_cache*
